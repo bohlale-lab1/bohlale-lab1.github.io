@@ -9,7 +9,7 @@
 <h2>Personal Details</h2>
 <h4>Name : Bohlale Christinah</h4>
 <h4>Surname : Ramoloto</h4>
-<h4>Age : 20 </h4>h4 
+<h4>Age : 20 </h4>
 <h4>Contact Details :  0720580782</h4>
 <h4>E-mail : ramolotoc@gmail.com</h4>
 <h4>Country : Republic Of South Africa</h4>
@@ -31,8 +31,9 @@
 
 <section>
 <h2>Projects</h2>
-- GameQuest
     
+- GameQuest
+- 
 - MindfulSpace
 </section>
 
