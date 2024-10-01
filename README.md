@@ -33,11 +33,11 @@
 <h2>Projects</h2>
     
 - GameQuest
+
 - MindfulSpace
 </section>
 
 <section>
 <h2>Contacts</h2>
 <h4>phone number : 0720580982 </h4>
-<h4>instagram : [insta](https://www.instagram.com/official_bohlale/ "insta"!) </h4>
 </section>
