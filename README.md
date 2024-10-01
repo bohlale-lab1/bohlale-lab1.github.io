@@ -31,8 +31,9 @@
 
 <section>
 <h2>Projects</h2>
->GameQuest
->MindfulSpace
+- GameQuest
+    
+- MindfulSpace
 </section>
 
 <section>
