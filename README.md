@@ -31,14 +31,8 @@
 
 <section>
 <h2>Projects</h2>
-'''GameQuest
-An immersive gaming experience that combines storytelling with augmented reality, allowing players to explore their real-world environment while solving puzzles and completing challenges.
-''''
-
-'''MindfulSpace
- A wellness app that provides guided meditations, stress relief exercises, and mindfulness resources to help users improve their mental health and well-being.  
-'''
-
+>GameQuest
+>MindfulSpace
 </section>
 
 <section>
