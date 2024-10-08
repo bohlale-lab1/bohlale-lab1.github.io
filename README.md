@@ -49,3 +49,13 @@
 [Instagram](https://www.instagram.com/official_bohlale)
 </section>
 
+<!-- PHP for CRUD Operations -->
+<?php 
+$servername = "sql10.freesqldatabase.com";
+$username = "sql10735887";
+$password = "sbbHJYR5mQ";
+$dbname = "sql10734887";
+
+   $conn = new sqli(sql10.freesqldatabase.com,sql10735887,sbbHJYR5mQ,sql10734887);
+   
+   
